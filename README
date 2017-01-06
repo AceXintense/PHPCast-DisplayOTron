@@ -1,0 +1,2 @@
+PHPCast DisplayOTron
+Python application that displays information on the Pi's DisplayOTron Hat module. The application makes simple API calls to the PHPCast server that allows the user to play, pause change volume from the HAT.
